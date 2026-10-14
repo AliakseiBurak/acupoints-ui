@@ -17,6 +17,7 @@ acupoints-local/
 │   └── acupoints/             # Individual acupoint docs (173 .md files)
 ├── Dockerfile                 # Docker image definition
 ├── docker-compose.yml         # Docker Compose orchestration
+├── Makefile                   # Development shortcuts (run `make help`)
 ├── nginx/
 │   └── nginx.conf             # Nginx reverse proxy config
 └── .env                       # Environment variables
@@ -25,7 +26,7 @@ acupoints-local/
 ## Quick Start
 
 ### Prerequisites
-- Docker and Docker Compose
+- Docker Engine with the Compose V2 plugin (`docker compose`)
 - Node.js 18+ (optional, for local development)
 
 ### Using Docker (Recommended)
@@ -33,7 +34,7 @@ acupoints-local/
 ```bash
 # Build and start all services
 cd acupoints-local
-docker-compose up -d
+docker compose up -d
 
 # Access the application
 # Frontend: http://localhost
@@ -49,6 +50,32 @@ npm install
 # Start development server
 npm run dev
 ```
+
+### Make Shortcuts
+
+A `Makefile` wraps the common tasks. Run `make help` for the full list.
+
+```bash
+make help      # list every target (default goal)
+make install   # npm ci (falls back to npm install)
+make dev       # server with nodemon
+make start     # server in the foreground
+
+make up        # build and start the Docker stack
+make down      # stop the stack (volumes are kept)
+make restart   # restart the stack
+make build     # rebuild the Docker images
+make logs      # follow container logs
+make ps        # status of every service
+make shell     # shell inside the app container
+
+make health    # GET /health (exits non-zero if the API is down)
+make verify    # check the content for untranslated placeholders
+make clean     # stop the stack and remove node_modules
+```
+
+Override `COMPOSE`, `NPM`, `PORT` or `HEALTH_URL` in the environment if
+your setup differs, e.g. `make up COMPOSE="docker compose -f prod.yml"`.
 
 ## API Endpoints
 
