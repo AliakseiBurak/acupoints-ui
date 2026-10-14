@@ -9,6 +9,37 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
+const MERIDIAN_CODES = {
+    'Lung Meridian': 'LU',
+    'Large Intestine Meridian': 'LI',
+    'Stomach Meridian': 'ST',
+    'Spleen Meridian': 'SP',
+    'Heart Meridian': 'HT',
+    'Small Intestine Meridian': 'SI',
+    'Bladder Meridian': 'BL',
+    'Kidney Meridian': 'KI',
+    'Pericardium Meridian': 'PC',
+    'Triple Energizer Meridian': 'TE',
+    'Gallbladder Meridian': 'GB',
+    'Liver Meridian': 'LR',
+    'Governing Vessel (Du Mai)': 'GV',
+    'Conception Vessel (Ren Mai)': 'CV'
+};
+
+function meridianCode(name) {
+    return MERIDIAN_CODES[name] || '';
+}
+
+function resolveMeridian(value) {
+    if (!value) return '';
+    const raw = String(value).trim();
+    const byName = Object.keys(MERIDIAN_CODES).find(k => k.toLowerCase() === raw.toLowerCase());
+    if (byName) return byName;
+    const upper = raw.toUpperCase();
+    const byCode = Object.entries(MERIDIAN_CODES).find(([, code]) => code === upper);
+    return byCode ? byCode[0] : '';
+}
+
 let contentCache = {};
 
 function parseMarkdown(content) {
@@ -128,7 +159,7 @@ app.get('/api/acupoints/search/:term', (req, res) => {
         const searchable = [
             acupoint.id, acupoint.name, acupoint.name_ru,
             acupoint.location, acupoint.location_ru,
-            acupoint.meridian, acupoint.category,
+            acupoint.meridian, meridianCode(acupoint.meridian), acupoint.category,
             acupoint.benefits, acupoint.benefits_en,
             acupoint.classification, acupoint.classification_en,
             acupoint.description, acupoint.indications,
@@ -158,19 +189,24 @@ app.get('/api/meridians', (req, res) => {
     const meridianData = meridians.map(meridian => {
         const points = Object.values(contentCache).filter(p => p.meridian === meridian);
         return {
+            code: meridianCode(meridian),
             name: meridian,
             count: points.length,
             points: points.map(p => ({ id: p.id, name: p.name, name_ru: p.name_ru }))
         };
     });
-    res.json({ success: true, count: meridians.length, data: meridianData });
+    meridianData.sort((a, b) => a.code.localeCompare(b.code));
+    res.json({ success: true, count: meridianData.length, data: meridianData });
 });
 
-// Get acupoints for a specific meridian
+// Get acupoints for a specific meridian (accepts abbreviation e.g. "BL", or full name)
 app.get('/api/meridians/:id', (req, res) => {
-    const meridian = req.params.id;
+    const meridian = resolveMeridian(req.params.id);
+    if (!meridian) {
+        return res.status(404).json({ success: false, error: 'Meridian not found' });
+    }
     const points = Object.values(contentCache).filter(p => p.meridian === meridian);
-    res.json({ success: true, meridian: meridian, count: points.length, data: points });
+    res.json({ success: true, code: meridianCode(meridian), meridian: meridian, count: points.length, data: points });
 });
 
 // Get languages

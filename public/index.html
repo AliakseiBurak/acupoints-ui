@@ -143,6 +143,9 @@
                 menuToggle.setAttribute('aria-expanded', String(!collapsed));
             });
 
+            // Keep the view in sync with back/forward navigation
+            window.addEventListener('popstate', () => { loadRecent(); });
+
             applyStaticLabels();
             loadMeridians();
             loadRecent();
@@ -166,15 +169,28 @@
 
             function displayMeridians(meridians) {
                 meridianGrid.innerHTML = meridians.map(m => `
-                    <li class="meridian-item${activeMeridian === m.name ? ' active' : ''}" data-meridian="${esc(m.name)}">
-                        <span class="meridian-name">${esc(trMeridian(m.name))}</span>
+                    <li class="meridian-item${activeMeridian === m.code ? ' active' : ''}" data-meridian="${esc(m.code)}">
+                        <span class="meridian-label">
+                            <span class="meridian-code">${esc(m.code)}</span>
+                            <span class="meridian-name">${esc(trMeridian(m.name))}</span>
+                        </span>
                         <span class="meridian-count">${m.count} ${esc(pointsWord(m.count))}</span>
                     </li>
                 `).join('');
 
                 meridianGrid.querySelectorAll('.meridian-item').forEach(item => {
                     item.addEventListener('click', () => {
-                        activeMeridian = item.getAttribute('data-meridian');
+                        const code = item.getAttribute('data-meridian');
+                        // clicking the active meridian deselects it
+                        if (activeMeridian === code) {
+                            activeMeridian = null;
+                            item.classList.remove('active');
+                            const url = window.location.pathname;
+                            window.history.pushState({path: url}, '', url);
+                            loadAllAcupoints();
+                            return;
+                        }
+                        activeMeridian = code;
                         meridianGrid.querySelectorAll('.meridian-item').forEach(el => el.classList.remove('active'));
                         item.classList.add('active');
                         viewMeridian(activeMeridian);
@@ -182,17 +198,17 @@
                 });
             }
 
-            async function viewMeridian(meridianName) {
+            async function viewMeridian(code) {
                 try {
-                    const response = await fetch(`/api/meridians/${encodeURIComponent(meridianName)}`);
+                    const response = await fetch(`/api/meridians/${encodeURIComponent(code)}`);
                     const data = await response.json();
 
                     if (data.success && data.data.length > 0) {
-                        displayAcupoints(data.data, `${t('meridian')} ${trMeridian(data.meridian)}`);
-                        const newUrl = `${window.location.pathname}?meridian=${encodeURIComponent(meridianName)}`;
+                        displayAcupoints(data.data, `${data.code} · ${trMeridian(data.meridian)}`);
+                        const newUrl = `${window.location.pathname}?meridian=${encodeURIComponent(data.code)}`;
                         window.history.pushState({path: newUrl}, '', newUrl);
                     } else {
-                        resultsDiv.innerHTML = `<div class="no-results">${esc(t('noMeridianPts'))} "${esc(data.meridian || meridianName)}".</div>`;
+                        resultsDiv.innerHTML = `<div class="no-results">${esc(t('noMeridianPts'))} "${esc(code)}".</div>`;
                     }
                 } catch (error) {
                     resultsDiv.innerHTML = `<div class="error">${esc(t('errMeridian'))}</div>`;
@@ -205,10 +221,10 @@
                 const meridianParam = urlParams.get('meridian');
 
                 if (meridianParam) {
-                    const name = decodeURIComponent(meridianParam);
-                    activeMeridian = name;
+                    const code = meridianParam.toUpperCase();
+                    activeMeridian = code;
                     if (meridiansData) displayMeridians(meridiansData);
-                    await viewMeridian(name);
+                    await viewMeridian(code);
                 } else {
                     activeMeridian = null;
                     if (meridiansData) displayMeridians(meridiansData);
