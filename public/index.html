@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AcuPoints - Chart of Acupressure Points</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>AcuPoints - Chart of Acupressure Points</h1>
+        <nav>
+            <a href="#" id="lang-switch">Русский</a>
+        </nav>
+    </header>
+    
+    <main>
+        <!-- Meridian Menu -->
+        <section id="meridian-menu">
+            <h2>Meridians</h2>
+            <p>Select a meridian to view its acupoints:</p>
+            <div id="meridian-grid" class="meridian-grid">
+                <!-- Meridian buttons will be loaded here -->
+            </div>
+        </section>
+        
+        <!-- Search Section -->
+        <section id="search">
+            <h2>Search Acupoints</h2>
+            <input type="text" id="search-input" placeholder="Search by name or description...">
+            <button id="search-btn">Search</button>
+        </section>
+        
+        <!-- Results Section -->
+        <section id="results">
+            <div class="loading">Loading meridians...</div>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2026 AcuPoints Local Version</p>
+        <p>Локальная версия базы акупунктурных точек с переводом на русский язык.</p>
+    </footer>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const langSwitch = document.getElementById('lang-switch');
+            const searchInput = document.getElementById('search-input');
+            const searchBtn = document.getElementById('search-btn');
+            const resultsDiv = document.getElementById('results');
+            const meridianGrid = document.getElementById('meridian-grid');
+            let currentLang = 'en';
+            let meridiansData = null;
+
+            // Language toggle
+            langSwitch.addEventListener('click', (e) => {
+                e.preventDefault();
+                currentLang = currentLang === 'en' ? 'ru' : 'en';
+                langSwitch.textContent = currentLang === 'en' ? 'Русский' : 'English';
+                if (meridiansData) displayMeridians(meridiansData);
+                loadRecent(); // Reload recent view
+            });
+
+            // Search functionality
+            searchBtn.addEventListener('click', performSearch);
+            searchInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') performSearch();
+            });
+
+            // Load meridians on page load
+            loadMeridians();
+
+            async function loadMeridians() {
+                try {
+                    const response = await fetch('/api/meridians');
+                    const data = await response.json();
+                    
+                    if (data.success && data.data.length > 0) {
+                        meridiansData = data.data;
+                        displayMeridians(data.data);
+                    } else {
+                        meridianGrid.innerHTML = '<p>No meridians found.</p>';
+                    }
+                } catch (error) {
+                    meridianGrid.innerHTML = '<p>Error loading meridians. Please try again.</p>';
+                    console.error('Error:', error);
+                }
+            }
+
+            function displayMeridians(meridians) {
+                meridianGrid.innerHTML = `
+                    <div class="meridian-cards">
+                        ${meridians.map(meridian => `
+                            <div class="meridian-card" data-meridian="${meridian.name}">
+                                <h3>${currentLang === 'en' ? meridian.name : meridian.name}</h3>
+                                <p class="meridian-count">${meridian.count} acupoints</p>
+                                <div class="meridian-points">
+                                    ${meridian.points.slice(0, 5).map(point => `
+                                        <span class="point-id">${currentLang === 'en' ? point.id : point.id}</span>
+                                    `).join('')}
+                                    ${meridian.points.length > 5 ? `<span class="point-more">+${meridian.points.length - 5} more</span>` : ''}
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+                
+                // Add click handlers to meridian cards
+                document.querySelectorAll('.meridian-card').forEach(card => {
+                    card.addEventListener('click', () => {
+                        const meridianName = card.getAttribute('data-meridian');
+                        viewMeridian(meridianName);
+                    });
+                });
+            }
+
+            async function viewMeridian(meridianName) {
+                try {
+                    const response = await fetch(`/api/meridians/${encodeURIComponent(meridianName)}`);
+                    const data = await response.json();
+                    
+                    if (data.success && data.data.length > 0) {
+                        displayAcupoints(data.data, `Meridian: ${data.meridian}`);
+                        // Update URL without reloading
+                        const newUrl = `${window.location.pathname}?meridian=${encodeURIComponent(meridianName)}`;
+                        window.history.pushState({path: newUrl}, '', newUrl);
+                    } else {
+                        resultsDiv.innerHTML = `<div class="no-results">No acupoints found for meridian "${meridianName}".</div>`;
+                    }
+                } catch (error) {
+                    resultsDiv.innerHTML = '<div class="error">Error loading meridian. Please try again.</div>';
+                    console.error('Error:', error);
+                }
+            }
+
+            async function loadRecent() {
+                // Load either all acupoints or the meridian from URL
+                const urlParams = new URLSearchParams(window.location.search);
+                const meridianParam = urlParams.get('meridian');
+                
+                if (meridianParam) {
+                    await viewMeridian(decodeURIComponent(meridianParam));
+                } else {
+                    await loadAllAcupoints();
+                }
+            }
+
+            async function loadAllAcupoints() {
+                try {
+                    const response = await fetch('/api/acupoints?limit=200');
+                    const data = await response.json();
+                    
+                    if (data.success && data.data.length > 0) {
+                        displayAcupoints(data.data, `All Acupoints (${data.total})`);
+                    } else {
+                        resultsDiv.innerHTML = '<div class="no-results">No acupoints found.</div>';
+                    }
+                } catch (error) {
+                    resultsDiv.innerHTML = '<div class="error">Error loading acupoints. Please try again.</div>';
+                    console.error('Error:', error);
+                }
+            }
+
+            async function performSearch() {
+                const term = searchInput.value.trim();
+                if (!term) {
+                    await loadRecent();
+                    return;
+                }
+
+                try {
+                    const response = await fetch(`/api/acupoints/search/${encodeURIComponent(term)}`);
+                    const data = await response.json();
+                    
+                    if (data.success && data.data.length > 0) {
+                        displayAcupoints(data.data, `Search results for "${term}" (${data.count} found)`);
+                    } else {
+                        resultsDiv.innerHTML = `<div class="no-results">No results found for "${term}".</div>`;
+                    }
+                } catch (error) {
+                    resultsDiv.innerHTML = '<div class="error">Error searching. Please try again.</div>';
+                    console.error('Error:', error);
+                }
+            }
+
+            function displayAcupoints(acupoints, title) {
+                resultsDiv.innerHTML = `
+                    <div class="acupoints-header">
+                        <h2>${title}</h2>
+                        <div class="language-indicator">
+                            Display language: <strong>${currentLang === 'en' ? 'English' : 'Russian'}</strong>
+                        </div>
+                    </div>
+                    <div class="acupoint-grid">
+                        ${acupoints.map(point => `
+                            <div class="acupoint-card">
+                                <h3 class="acupoint-name">
+                                    ${currentLang === 'en' ? point.name : point.name_ru || point.name}
+                                </h3>
+                                <div class="acupoint-details">
+                                    <div class="detail-item">
+                                        <strong>Meridian:</strong> ${point.meridian || 'N/A'}
+                                    </div>
+                                    <div class="detail-item">
+                                        <strong>Category:</strong> ${point.category || 'N/A'}
+                                    </div>
+                                    <div class="detail-item">
+                                        <strong>Location:</strong> 
+                                        ${currentLang === 'en' ? 
+                                            (point.location || 'N/A') : 
+                                            (point.location_ru || point.location || 'N/A')}
+                                    </div>
+                                    <div class="detail-item">
+                                        <strong>Benefits:</strong> ${point.benefits || 'N/A'}
+                                    </div>
+                                </div>
+                                <div class="acupoint-footer">
+                                    <a href="/api/acupoints/${point.id}" class="view-link" target="_blank">
+                                        View Full Details
+                                    </a>
+                                    ${point.image ? `
+                                        <div class="acupoint-image">
+                                            <img src="/images/acupoints/${point.image}" alt="${point.name}" onerror="this.style.display='none'">
+                                        </div>
+                                    ` : ''}
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+            }
+
+            // Initial load
+            loadRecent();
+        });
+    </script>
+</body>
+</html>
