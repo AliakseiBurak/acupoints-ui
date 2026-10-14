@@ -4,6 +4,8 @@ name: "KI 3 Acupuncture Point"
 name_ru: "KI 3 (Тайси)"
 location: "On the medial aspect of the foot, posterior to the medial malleolus, in the depression between the tip of the medial malleolus and tendo calcaneus."
 location_ru: "На медиальной поверхности стопы, позади медиальной лодыжки, в углублении между верхушкой медиальной лодыжки и ахилловым сухожилием."
+benefits_en: "Tonifies the Kidneys (Yin and Yang), strengthens the low back, relieves heel/ankle pain."
+classification_en: "Yuan-Source point of the Kidney Meridian"
 meridian: "Kidney Meridian"
 category: ""
 image: "ki3.jpg"
@@ -30,10 +32,7 @@ On the medial aspect of the foot, posterior to the medial malleolus, in the depr
 
 ## Benefits
 
-- Импотенция, сперматорея, частое мочеиспускание, глухота, шум в ушах, нерегулярные менструации, боль в пояснице
-- Головная боль, головокружение, нечёткость зрения, зубная боль, отёк глотки
-- Кашель, астма, диабет
-- Бессонница
+Тонизирует Почки (Инь и Ян), укрепляет поясницу, снимает боль в пятке и лодыжке.
 
 ## Classification
 

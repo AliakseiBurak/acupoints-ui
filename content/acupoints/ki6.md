@@ -4,6 +4,8 @@ name: "KI 6 Acupuncture Point"
 name_ru: "KI 6 (Чжаохай)"
 location: "On the medial aspect of the foot, in the depression below the tip of the medial malleolus."
 location_ru: "На медиальной поверхности стопы, в углублении ниже верхушки медиальной лодыжки."
+benefits_en: "Nourishes the Kidneys, clears deficiency-Heat, regulates the Yin Qiao vessel, benefits the throat, benefits the eyes, calms the Shen."
+classification_en: "Master Point of the Yin Qiao Vessel (couple with"
 meridian: "Kidney Meridian"
 category: ""
 image: "ki6.jpg"
@@ -30,10 +32,7 @@ On the medial aspect of the foot, in the depression below the tip of the medial 
 
 ## Benefits
 
-- Сухость и болезненность горла, запор, задержка мочи
-- Нерегулярные менструации, кровянистые бели, пролапс матки, зуд вульвы
-- Эпилепсия
-- Заболевания глаз
+Питает Почки, очищает Жар Пустоты, регулирует сосуд Инь-цяо, улучшает горло, улучшает глаза, успокаивает Дух (Шэнь).
 
 ## Classification
 

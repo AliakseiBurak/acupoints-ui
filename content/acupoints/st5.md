@@ -4,6 +4,8 @@ name: "ST 5 Acupuncture Point"
 name_ru: "ST 5 (Даян)"
 location: "Anterior to the angle of the mandible, on the anterior border of the attached portion of muscle masseter, where the facial artery pulsates."
 location_ru: "Перед углом нижней челюсти, на переднем крае прикреплённой части жевательной мышцы, где пульсирует лицевая артерия."
+benefits_en: "Dispels Wind, and reduces swelling."
+classification_en: "Ordinary point of the Stomach Meridian."
 meridian: "Stomach Meridian"
 category: ""
 image: "st5.jpg"
@@ -28,7 +30,7 @@ Anterior to the angle of the mandible, on the anterior border of the attached po
 
 ## Benefits
 
-Устраняет Ветер и уменьшает отёк. Применяется при отёке щек, зубной боли, перекосе лица, тризме.
+Изгоняет Ветер, устраняет отёк.
 
 ## Classification
 

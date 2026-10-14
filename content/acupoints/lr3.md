@@ -4,6 +4,8 @@ name: "LR 3 Acupuncture Point"
 name_ru: "LR 3 (Тайчун)"
 location: "On the dorsum of the foot, in the depression proximal to the 1st metatarsal space."
 location_ru: "На тыльной стороне стопы, в углублении проксимальнее 1-го плюсневого промежутка."
+benefits_en: "Regulates Liver Qi, subdues Liver Yang, regulates menstruation, calms the Shen, nourishes Liver Yin."
+classification_en: "Yuan-Source point of the Liver Meridian"
 meridian: "Liver Meridian"
 category: ""
 image: "lr3.jpg"
@@ -31,7 +33,7 @@ On the dorsum of the foot, in the depression proximal to the 1st metatarsal spac
 
 ## Benefits
 
-Успокаивает Печень и устраняет застой Ци, успокаивает ветер, регулирует менструации, укрепляет нижние конечности. Применяется при головной боли, головокружении, покраснении и боли в глазах, кривошее, депрессии, боли в подреберье, вздутии живота, икоте, слабости и онемении нижних конечностей, нерегулярных менструациях, маточных кровотечениях, грыже, энурезе, эпилепсии и детских судорогах.
+Регулирует Ци Печени, усмиряет Ян Печени, регулирует менструации, успокаивает Дух (Шэнь), питает Инь Печени.
 
 ## Classification
 

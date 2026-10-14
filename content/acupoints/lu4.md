@@ -4,6 +4,8 @@ name: "LU 4 Acupuncture Point"
 name_ru: "LU 4 (Сябай)"
 location: "On the medial aspect of the upper arm, on the radial side of muscle biceps brachii, 4 cun below the front end of the axillary fossa, 5 cun above the cubital crease."
 location_ru: "На медиальной стороне плеча, на лучевой стороне двуглавой мышцы плеча, 4 цуня ниже переднего конца подмышечной впадины, 5 цуня выше локтевой складки."
+benefits_en: "Descends Lung Qi. Mostly a local point."
+classification_en: "Point of the Lung Meridian (not one of the five Shu points)."
 meridian: "Lung Meridian"
 category: ""
 image: "lu4.jpg"
@@ -29,7 +31,7 @@ On the medial aspect of the upper arm, on the radial side of muscle biceps brach
 
 ## Benefits
 
-Опускает Ци Лёгких, очищает лёгкие от жара, гармонизирует желудок и останавливает тошноту. Применяется при кашле, астме, раздражительности, застое, тошноте, боли в медиальной стороне плеча.
+Опускает Ци Лёгких. Преимущественно местная точка.
 
 ## Classification
 

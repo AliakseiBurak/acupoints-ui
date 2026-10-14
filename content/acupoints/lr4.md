@@ -4,6 +4,8 @@ name: "LR 4 Acupuncture Point"
 name_ru: "LR 4 (Чжунфэн)"
 location: "On the dorsum of the foot, between SP 5 and ST 41, in the depression on the medial side of the tendon muscle tibialis anterior."
 location_ru: "На тыльной стороне стопы, между SP 5 и ST 41, в углублении на медиальной стороне сухожилия передней большеберцовой мышцы."
+benefits_en: "Regulates Liver Qi, clears Heat."
+classification_en: "Jing-River point of the Liver Meridian"
 meridian: "Liver Meridian"
 category: ""
 image: "lr4.jpg"
@@ -29,7 +31,7 @@ On the dorsum of the foot, between SP 5 and ST 41, in the depression on the medi
 
 ## Benefits
 
-Регулирует Ци Печени, устраняет застой, останавливает утечку семени. Применяется при грыже, боли в животе, сперматорее и дизурии.
+Регулирует Ци Печени, очищает от Жара.
 
 ## Classification
 

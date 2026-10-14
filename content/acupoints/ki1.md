@@ -4,6 +4,8 @@ name: "KI 1 Acupuncture Point"
 name_ru: "KI 1 (Юнцюань)"
 location: "On the sole, in the depression when the foot is in plantar flexion, approximately at the anterior third and the posterior two-thirds of the line from the web between the 2nd and 3rd toes to the back of the heel."
 location_ru: "На подошве, в углублении при подошвенном сгибании стопы, примерно на границе передней трети и задних двух третей линии от межпальцевой складки между 2-м и 3-м пальцами до задней части пятки."
+benefits_en: "Descends excess above, resuscitates, clears heat, calms the Shen, tonifies Yin, clears Empty-Heat."
+classification_en: "Jing-Well point of the Kidney Meridian"
 meridian: "Kidney Meridian"
 category: ""
 image: "ki1.jpg"
@@ -30,10 +32,7 @@ On the sole, in the depression when the foot is in plantar flexion, approximatel
 
 ## Benefits
 
-- Потеря сознания, головная боль, боль в шее, головокружение, детские судороги, маниакальный психоз
-- Тошнота, рвота
-- Отёк глотки, сухость языка, дизурия, запор
-- Ощущение жара в подошве
+Опускает избыток вверху, приводит в сознание, очищает от Жара, успокаивает Дух (Шэнь), тонизирует Инь, очищает от Пустого Жара.
 
 ## Classification
 

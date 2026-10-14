@@ -4,6 +4,8 @@ name: "GB 6 Acupuncture Point"
 name_ru: "GB 6 (Сюаньли)"
 location: "Within the hairline of the temporal region, at the junction of the upper 3/4 and lower 1/4 of the arc connecting ST 8 and GB 7."
 location_ru: "В пределах линии роста волос височной области, на стыке верхних 3/4 и нижней 1/4 дуги, соединяющей ST 8 и GB 7."
+benefits_en: "Dispels Wind, clears Heat, relieves pain."
+classification_en: "Crossing point of the Gall Bladder, the Stomach, and San Jiao Meridians"
 meridian: "Gallbladder Meridian"
 category: ""
 image: "gb6.jpg"
@@ -29,9 +31,7 @@ Within the hairline of the temporal region, at the junction of the upper 3/4 and
 
 ## Benefits
 
-- Мигрень
-- Покраснение, отёк и боль глаза
-- Тиннитус
+Изгоняет Ветер, очищает от Жара, снимает боль.
 
 ## Classification
 

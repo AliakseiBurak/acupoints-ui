@@ -4,6 +4,8 @@ name: "Li 9 Acupuncture Point"
 name_ru: "LI 9 (Шанлянь)"
 location: "With the elbow flexed, the point is on the dorsal radial side of the forearm, on the line connecting Li 5 and Li 11, 3 cun below the transverse cubital crease."
 location_ru: "При сгибании локтя точка находится на тыльной лучевой стороне предплечья, на линии, соединяющей Li 5 и Li 11, на 3 цунь ниже поперечной локтевой складки."
+benefits_en: "Stops pain, regulates the Large Intestine, and activates the meridian."
+classification_en: "Ordinary point of the Large Intestine Meridian (Yangming of the arm)."
 meridian: "Large Intestine Meridian"
 category: ""
 image: "li9.jpg"
@@ -29,9 +31,7 @@ With the elbow flexed, the point is on the dorsal radial side of the forearm, on
 
 ## Benefits
 
-- Гемиплегия
-- Ломота в плече и руке, онемение кисти и руки
-- Боль в животе, урчание в кишечнике
+Снимает боль, регулирует Толстую кишку, активирует меридиан.
 
 ## Classification
 

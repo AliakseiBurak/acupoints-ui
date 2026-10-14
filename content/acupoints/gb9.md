@@ -4,6 +4,8 @@ name: "GB 9 Acupuncture Point"
 name_ru: "GB 9 (Тяньчун)"
 location: "On the head, directly above the posterior border of the auricle, 2 cun within the hairline, 0.5 cun posterior to GB 8."
 location_ru: "На голове, прямо над задним краем ушной раковины, в 2 цуня от линии роста волос, в 0,5 цуня позади GB 8."
+benefits_en: "Clears Heat, calms the Shen, removes obstructions from meridian."
+classification_en: "Crossing point of the Gall Bladder and Urinary Bladder Meridians"
 meridian: "Gallbladder Meridian"
 category: ""
 image: "gb9.jpg"
@@ -30,10 +32,7 @@ On the head, directly above the posterior border of the auricle, 2 cun within th
 
 ## Benefits
 
-- Головная боль
-- Глухота, тиннитус
-- Мания
-- Отёк и боль дёсен
+Очищает от Жара, успокаивает Дух (Шэнь), устраняет закупорки в меридиане.
 
 ## Classification
 

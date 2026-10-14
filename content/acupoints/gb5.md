@@ -4,6 +4,8 @@ name: "GB 5 Acupuncture Point"
 name_ru: "GB 5 (Сюаньлу)"
 location: "Within the hairline of the temporal region, at the midpoint of the arc connecting ST 8 and GB 7."
 location_ru: "В пределах линии роста волос височной области, в середине дуги, соединяющей ST 8 и GB 7."
+benefits_en: "Dispels Wind, clears Heat, relieves pain."
+classification_en: "Ordinary point of the Gallbladder Meridian."
 meridian: "Gallbladder Meridian"
 category: ""
 image: "gb5.jpg"
@@ -29,10 +31,8 @@ Within the hairline of the temporal region, at the midpoint of the arc connectin
 
 ## Benefits
 
-- Мигрень
-- Покраснение, отёк и боль глаза
-- Зубная боль
+Изгоняет Ветер, очищает от Жара, снимает боль.
 
 ## Classification
 
-Точка меридиана Печени (Gallbladder Meridian), точка на меридиане.
+Точка меридиана Желчного пузыря.

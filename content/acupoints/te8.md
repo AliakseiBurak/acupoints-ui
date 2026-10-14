@@ -4,6 +4,8 @@ name: "TE 8 Acupuncture Point"
 name_ru: "TE 8 (Саньянло)"
 location: "On the dorsal aspect of the forearm, on the line connecting TE 4 and the tip of the elbow, 4 cun above the transverse crease of the wrist between the ulna and radius."
 location_ru: "На тыльной стороне предплечья, на линии, соединяющей TE 4 и верхушку локтя, на 4 цуня выше поперечной складки запястья между локтевой и лучевой костями."
+benefits_en: "Activates the meridian, removes obstructions, alleviates pain."
+classification_en: "Crossing point of the Three Yang Meridians of the arm"
 meridian: "Triple Energizer Meridian"
 category: ""
 image: "te8.jpg"
@@ -29,7 +31,7 @@ On the dorsal aspect of the forearm, on the line connecting TE 4 and the tip of 
 
 ## Benefits
 
-Очищает от жара, улучшает слух, прочищает каналы. Применяется при глухоте, внезапной потере голоса, зубной боли, спазме и боли в верхних конечностях.
+Активирует меридиан, освобождает от закупорок, убирает боль.
 
 ## Classification
 

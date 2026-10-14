@@ -4,6 +4,8 @@ name: "GB 3 Acupuncture Point"
 name_ru: "GB 3 (Шаньгуань)"
 location: "In the front of the ear, directly above ST 7, in the depression on the upper border of the zygomatic arch."
 location_ru: "Спереди уха, прямо над ST 7, в углублении на верхнем крае скуловой дуги."
+benefits_en: "Dispels Wind, benefits the eyes, relieves pain."
+classification_en: "Crossing point of the Gall Bladder, the Stomach, and San Jiao Meridians"
 meridian: "Gallbladder Meridian"
 category: ""
 image: "gb3.jpg"
@@ -30,10 +32,7 @@ In the front of the ear, directly above ST 7, in the depression on the upper bor
 
 ## Benefits
 
-- Мигрень
-- Тиннитус, глухота
-- Перекос лица
-- Зубная боль, тризм
+Изгоняет Ветер, улучшает зрение, снимает боль.
 
 ## Classification
 

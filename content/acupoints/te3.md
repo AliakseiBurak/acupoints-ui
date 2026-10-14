@@ -4,6 +4,8 @@ name: "TE 3 Acupuncture Point"
 name_ru: "TE 3 (Чжунчжу)"
 location: "On the dorsum of the hand, in the depression between the 4th and 5th metacarpal bones, proximal to the 4th metacarpophalangeal joint."
 location_ru: "На тыльной стороне кисти, в углублении между 4-й и 5-й пястными костями, проксимальнее 4-го пястно-фалангового сустава."
+benefits_en: "Clears Heat, dispels Wind, benefits the ears, eyes and head, activates the meridian, alleviates pain."
+classification_en: "Shu-Stream point of the San Jiao Meridian"
 meridian: "Triple Energizer Meridian"
 category: ""
 image: "te3.jpg"
@@ -30,7 +32,7 @@ On the dorsum of the hand, in the depression between the 4th and 5th metacarpal 
 
 ## Benefits
 
-Очищает от жара, улучшает слух и зрение, уменьшает отёк. Применяется при головной боли, покраснении глаз, шуме в ушах, глухоте, боли в горле, боли в лопаточной области, боли в ноге, невозможности разогнуть пальцы.
+Очищает от Жара, изгоняет Ветер, благотворно влияет на уши, глаза и голову, активирует меридиан, убирает боль.
 
 ## Classification
 

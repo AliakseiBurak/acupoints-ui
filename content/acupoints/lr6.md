@@ -4,6 +4,8 @@ name: "LR 6 Acupuncture Point"
 name_ru: "LR 6 (Чжунду)"
 location: "On the medial aspect of the lower leg, 7 cun above the tip of the medial malleolus, on the middle of the medial aspect of the tibia."
 location_ru: "На медиальной стороне голени, 7 цуня выше верхушки медиальной лодыжки, посередине медиальной поверхности большеберцовой кости."
+benefits_en: "Regulates Liver Qi, relieves pain, resolves Dampness."
+classification_en: "Xi-Cleft point of the Liver Meridian"
 meridian: "Liver Meridian"
 category: ""
 image: "lr6.jpg"
@@ -29,7 +31,7 @@ On the medial aspect of the lower leg, 7 cun above the tip of the medial malleol
 
 ## Benefits
 
-Регулирует Ци Печени, устраняет застой, останавливает диарею и длительные послеродовые лохии. Применяется при боли в подреберье, вздутии и боли в животе, диарее, длительных лохиях и грыже.
+Регулирует Ци Печени, убирает боль, устраняет Сырость.
 
 ## Classification
 

@@ -4,6 +4,8 @@ name: "ST 9 Acupuncture Point"
 name_ru: "ST 9 (Жэньин)"
 location: "On the neck, lateral to the Adam&#8217;s apple, on the anterior border of muscle sternocleidomastoideus, where the common carotid artery pulsates."
 location_ru: "На шее, латеральнее кадыка, на переднем крае грудино-ключично-сосцевидной мышцы, где пульсирует общая сонная артерия."
+benefits_en: "Regulates Qi and Blood, subdues rebellious Qi, benefits the throat and neck."
+classification_en: "Crossing point of the Stomach and Gall Bladder Meridians."
 meridian: "Stomach Meridian"
 category: ""
 image: "st9.jpg"
@@ -30,7 +32,7 @@ On the neck, lateral to the Adam&#8217;s apple, on the anterior border of muscle
 
 ## Benefits
 
-Регулирует Ци и уменьшает отёк горла. Применяется при боли в горле, скрофулёзе, зобе, астме, кровохарканье, гипертонии, апоплексии, гемиплегии, боли в суставах колена.
+Регулирует Ци и Кровь, подавляет возмущённую Ци, благотворно влияет на горло и шею.
 
 ## Classification
 

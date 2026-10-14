@@ -4,6 +4,8 @@ name: "KI 8 Acupuncture Point"
 name_ru: "KI 8 (Цзяосинь)"
 location: "On the medial aspect of the lower leg, 2 cun directly above KI 3, 0.5 cun anterior to KI 7, posterior to the medial border of the tibia."
 location_ru: "На медиальной поверхности голени, на 2 цунь выше KI 3, на 0,5 цунь спереди от KI 7, позади медиального края большеберцовой кости."
+benefits_en: "Regulates the Ren and Chong meridians, regulates menstruation."
+classification_en: "Xi-Cleft point of the Yin Qiao Vessel"
 meridian: "Kidney Meridian"
 category: ""
 image: "ki8.jpg"
@@ -29,9 +31,7 @@ On the medial aspect of the lower leg, 2 cun directly above KI 3, 0.5 cun anteri
 
 ## Benefits
 
-- Нерегулярные менструации, метроррагия и метростаксис, пролапс матки
-- Грыжа
-- Диарея, запор
+Регулирует Жэнь-май и сосуд Чун, регулирует менструации.
 
 ## Classification
 

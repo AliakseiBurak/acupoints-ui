@@ -4,6 +4,8 @@ name: "Li 6 Acupuncture Point"
 name_ru: "LI 6 (Пяньли)"
 location: "With the elbow flexed, the point is on the dorsal radial side of the forearm, on the line connecting Li 5 and Li 11, 3 cun above the wrist crease."
 location_ru: "При сгибании локтя точка находится на тыльной лучевой стороне предплечья, на линии, соединяющей Li 5 и Li 11, на 3 цунь выше запястной складки."
+benefits_en: "Expels Wind, clears Heat, opens the water passages."
+classification_en: "Luo-Connecting point of the Large Intestine Meridian"
 meridian: "Large Intestine Meridian"
 category: ""
 image: "li6.jpg"
@@ -30,10 +32,7 @@ With the elbow flexed, the point is on the dorsal radial side of the forearm, on
 
 ## Benefits
 
-- Кариес зубов
-- Глухота
-- Паралич лица
-- Отёк, ломота на тыле кисти
+Изгоняет Ветер, очищает от Жара, открывает водные пути.
 
 ## Classification
 

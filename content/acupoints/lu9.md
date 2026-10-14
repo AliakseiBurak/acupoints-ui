@@ -4,6 +4,8 @@ name: "LU 9 Acupuncture Point"
 name_ru: "LU 9 (Тайюань)"
 location: "On the radial end of the transverse crease of the wrist, where the radial artery pulsates."
 location_ru: "На лучевом конце поперечной складки запястья, где пульсирует лучевая артерия."
+benefits_en: "Tonifies Lung Qi and Yin, resolves phlegm, descends Lung Qi, tonifies Gathering Qi, influences the pulse."
+classification_en: "Yuan-Source point of the Lung Meridian."
 meridian: "Lung Meridian"
 category: ""
 image: "lu9.jpg"
@@ -30,7 +32,7 @@ On the radial end of the transverse crease of the wrist, where the radial artery
 
 ## Benefits
 
-Тонизирует Ци Лёгких, трансформирует мокроту, останавливает кашель и одышку, укрепляет пульс. Применяется при кашле с обильной мокротой, астме со слабостью, сосудистых проблемах: отсутствии или ослаблении пульса, головной боли, гемиплегии, ощущении холода, боли и слабости нижних конечностей, боли в запястье, икоте.
+Тонизирует Ци и Инь Лёгких, трансформирует мокроту, опускает Ци Лёгких, тонизирует Собирающую Ци, влияет на пульс.
 
 ## Classification
 

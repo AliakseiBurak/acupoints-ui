@@ -4,6 +4,8 @@ name: "LR 1 Acupuncture Point"
 name_ru: "LR 1 (Дадунь)"
 location: "On the foot, on the lateral side of the end of the great (big) toe, 0.1 cun from the corner of the nail."
 location_ru: "На стопе, на латеральной стороне конца большого пальца, 0,1 цуня от угла ногтя."
+benefits_en: "Regulates Liver Qi, regulates menstruation, resuscitates, resolves Damp-Heat, benefits the genitals."
+classification_en: "Jing-Well point of the Liver Meridian"
 meridian: "Liver Meridian"
 category: ""
 image: "lr1.jpg"
@@ -30,7 +32,7 @@ On the foot, on the lateral side of the end of the great (big) toe, 0.1 cun from
 
 ## Benefits
 
-Тонизирует и регулирует Ци Печени, устраняет застой Ци, успокаивает дух (Шэнь). Применяется при грыже, энурезе, маточных кровотечениях, опущении матки, аменорее и эпилепсии.
+Регулирует Ци Печени, регулирует менструации, оживляет, устраняет Сырость-Жар, благотворно влияет на половые органы.
 
 ## Classification
 

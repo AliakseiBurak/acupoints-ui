@@ -4,6 +4,8 @@ name: "ST 4 Acupuncture Point"
 name_ru: "ST 4 (Дицан)"
 location: "On the face, lateral to the corner of the mouth, directly below the pupil of the eye."
 location_ru: "На лице, латеральнее угла рта, прямо под зрачком глаза."
+benefits_en: "Dispels Wind, relieves pain, activates the meridian."
+classification_en: "Crossing point of the Stomach, Large Intestine Meridians and the Yang Qiao Vessel"
 meridian: "Stomach Meridian"
 category: ""
 image: "st4.jpg"
@@ -28,7 +30,7 @@ On the face, lateral to the corner of the mouth, directly below the pupil of the
 
 ## Benefits
 
-Устраняет Ветер и прочищает каналы. Применяется при перекосе лица, слюнотечении, подёргивании век, подёргивании угла рта (паралич Белла, невралгия тройничного нерва).
+Изгоняет Ветер, устраняет боль, активирует меридиан.
 
 ## Classification
 

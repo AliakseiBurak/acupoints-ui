@@ -4,6 +4,8 @@ name: "TE 7 Acupuncture Point"
 name_ru: "TE 7 (Хуэйцзун)"
 location: "On the dorsal aspect of the forearm, on the line connecting TE 4 and the tip of the elbow, 3 cun above the transverse crease of the wrist between the ulna and radius."
 location_ru: "На тыльной стороне предплечья, на линии, соединяющей TE 4 и верхушку локтя, на 3 цуня выше поперечной складки запястья между локтевой и лучевой костями."
+benefits_en: "Activates the meridian, removes obstructions, benefits the ears."
+classification_en: "Xi-Cleft point of the San Jiao Meridian"
 meridian: "Triple Energizer Meridian"
 category: ""
 image: "te7.jpg"
@@ -29,7 +31,7 @@ On the dorsal aspect of the forearm, on the line connecting TE 4 and the tip of 
 
 ## Benefits
 
-Очищает от жара, прочищает ухо. Применяется при глухоте, эпилепсии, спазме и боли в верхних конечностях.
+Активирует меридиан, освобождает от закупорок, благотворно влияет на уши.
 
 ## Classification
 

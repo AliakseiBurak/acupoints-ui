@@ -4,6 +4,8 @@ name: "HT 6 Acupuncture Point"
 name_ru: "HT 6 (Иньси)"
 location: "When the palm faces upward, the point is on the radial side of the tendon of muscle flexor carpi ulnaris, 0.5 cun above the transverse crease of the wrist."
 location_ru: "При обращённой вверх ладони точка находится на лучевой стороне сухожилия локтевого сгибателя запястья, в 0,5 цуня выше поперечной складки запястья."
+benefits_en: "Calms the Shen, clears deficiency Heat, nourishes Heart Yin, stops night sweating."
+classification_en: "Xi-Cleft point of the Heart Meridian"
 meridian: "Heart Meridian"
 category: ""
 image: "ht6.jpg"
@@ -29,9 +31,7 @@ When the palm faces upward, the point is on the radial side of the tendon of mus
 
 ## Benefits
 
-- Сердечная боль, сердцебиение от испуга
-- Гектическая лихорадка и ночная потливость
-- Кровохарканье, носовое кровотечение, внезапная потеря голоса
+Успокаивает Дух (Шэнь), очищает Жар Пустоты, питает Инь Сердца, останавливает ночную потливость.
 
 ## Classification
 

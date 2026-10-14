@@ -4,6 +4,8 @@ name: "ST 6 Acupuncture Point"
 name_ru: "ST 6 (Цзячэ)"
 location: "On the cheek, in the depression one finger-breadth (middle finger) anterior and superior to the lower angle of the mandible where muscle masseter attaches, at the prominence of the muscle when the teeth are clenched."
 location_ru: "На щеке, в углублении на одну ширину пальца (среднего пальца) перед и выше нижнего угла нижней челюсти, где прикрепляется жевательная мышца, на выступе мышцы при сжатых зубах."
+benefits_en: "Dispels Wind, clears obstructions in the meridian, relieves pain, and benefits the jaw and teeth."
+classification_en: "Ordinary point of the Stomach Meridian."
 meridian: "Stomach Meridian"
 category: ""
 image: "st6.jpg"
@@ -29,7 +31,7 @@ On the cheek, in the depression one finger-breadth (middle finger) anterior and 
 
 ## Benefits
 
-Устраняет Ветер и прочищает каналы, уменьшает отёк лица. Применяется при отёке щек, перекосе лица, зубной боли в нижней челюсти, остром тризме, затруднённом открывании рта. Важная точка для височно-нижнечелюстного сустава.
+Изгоняет Ветер, устраняет застойные явления в меридиане, снимает боль, благотворно влияет на челюсть и зубы.
 
 ## Classification
 

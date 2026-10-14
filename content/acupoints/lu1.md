@@ -4,6 +4,8 @@ name: "LU 1 Acupuncture Point"
 name_ru: "LU 1 (Чжунфу)"
 location: "On the upper lateral chest, 1 cun below LU 2, level in the first intercostal space, 6 cun from the midline of the chest."
 location_ru: "На верхнелатеральной части грудной клетки, 1 цунь ниже LU 2, на уровне первого межреберного промежутка, 6 цуня от срединной линии грудной клетки."
+benefits_en: "Disperses heat from the chest and stops cough, regulates and descends Lung Qi."
+classification_en: "Front-Mu point of the Lung Meridian; the Crossing point of the Lung and Spleen Meridian."
 meridian: "Lung Meridian"
 category: ""
 image: "lu1.jpg"
@@ -29,7 +31,7 @@ On the upper lateral chest, 1 cun below LU 2, level in the first intercostal spa
 
 ## Benefits
 
-Рассеивает и опускает Ци Лёгких, очищает лёгкие от жара, останавливает кашель и одышку. Применяется при кашле, астме, свистящем дыхании, боли в груди (в основном при состояниях избытка), боли в плече и спине, вздутии живота.
+Рассеивает Жар в груди, останавливает кашель, регулирует и опускает Ци Лёгких.
 
 ## Classification
 

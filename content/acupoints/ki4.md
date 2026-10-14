@@ -4,6 +4,8 @@ name: "KI 4 Acupuncture Point"
 name_ru: "KI 4 (Дачжун)"
 location: "On the medial aspect of the foot, posterior and inferior to the medial malleolus, in the depression anterior to the medial side of the attachment of tendo calcaneus."
 location_ru: "На медиальной поверхности стопы, позади и ниже медиальной лодыжки, в углублении спереди от медиальной стороны прикрепления ахиллова сухожилия."
+benefits_en: "Benefits the Kidneys, local point for heel/ankle pain, strengthens the will."
+classification_en: "Luo-Connecting point of the Kidney Meridian"
 meridian: "Kidney Meridian"
 category: ""
 image: "ki4.jpg"
@@ -29,9 +31,7 @@ On the medial aspect of the foot, posterior and inferior to the medial malleolus
 
 ## Benefits
 
-- Задержка мочи, энурез, запор
-- Кровохарканье, астма
-- Деменция, боль в пятке
+Благотворно влияет на Почки, локальная точка при боли в пятке и лодыжке, укрепляет волю.
 
 ## Classification
 

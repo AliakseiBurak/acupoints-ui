@@ -4,6 +4,8 @@ name: "LU 6 Acupuncture Point"
 name_ru: "LU 6 (Кунцзуй)"
 location: "On the radial palmar aspect of the forearm, on the line joining LU 5 and LU 9, 7 cun above the transverse crease of the wrist."
 location_ru: "На лучевой ладонной стороне предплечья, на линии, соединяющей LU 5 и LU 9, 7 цуня выше поперечной складки запястья."
+benefits_en: "Descends and regulates Lung Qi, stops bleeding, clears heat."
+classification_en: "Xi-Cleft point of the Lung Meridian."
 meridian: "Lung Meridian"
 category: ""
 image: "lu6.jpg"
@@ -30,7 +32,7 @@ On the radial palmar aspect of the forearm, on the line joining LU 5 and LU 9, 7
 
 ## Benefits
 
-Очищает лёгкие от жара, останавливает кровотечение, открывает поры и выводит патогенный фактор. Применяется при остром кровохарканье, кровоточащем геморрое, носовом кровотечении, кашле и астме, боли в горле, лихорадочных заболеваниях без потоотделения, боли в предплечье.
+Опускает и регулирует Ци Лёгких, останавливает кровотечение, очищает от Жара.
 
 ## Classification
 

@@ -4,6 +4,8 @@ name: "Li 5 Acupuncture Point"
 name_ru: "LI 5 (Янси)"
 location: "On the radial side of the dorsal crease of the wrist, when the thumb is pointed upwards, it is in the depression between the tendons muscle extensor pollicis longus and brevis."
 location_ru: "На лучевой стороне тыльной складки запястья, при отведённом вверх большом пальце находится в углублении между сухожилиями длинного и короткого разгибателей большого пальца."
+benefits_en: "Expels Wind, clears Yangming Fire, benefits the throat"
+classification_en: "Jing-River point of the Large Intestine Meridian"
 meridian: "Large Intestine Meridian"
 category: ""
 image: "li5.jpg"
@@ -29,9 +31,7 @@ On the radial side of the dorsal crease of the wrist, when the thumb is pointed 
 
 ## Benefits
 
-- Головная боль в лобной области, заложенность, отёк и боль глаза.
-- Зубная боль
-- Слабость запястья.
+Изгоняет Ветер, очищает Огонь Янмин, благотворно влияет на горло.
 
 ## Classification
 

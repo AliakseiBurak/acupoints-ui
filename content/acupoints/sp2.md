@@ -4,6 +4,8 @@ name: "SP 2 Acupuncture Point"
 name_ru: "SP 2 (Даду)"
 location: "On the medial aspect of the foot, in the depression anterior and inferior to the proximal metatarsodigital joint of the big toe, at the junction of the red and white skin."
 location_ru: "На медиальной поверхности стопы, в углублении перед и ниже проксимального пястно-фалангового сустава большого пальца, на границе красной и белой кожи."
+benefits_en: "Clears Heat, regulates and tonifies the Spleen, resolves Damp-Heat (i.e. gout)."
+classification_en: "Ying-Spring point of the Spleen Meridian."
 meridian: "Spleen Meridian"
 category: ""
 image: "sp2.jpg"
@@ -28,7 +30,7 @@ On the medial aspect of the foot, in the depression anterior and inferior to the
 
 ## Benefits
 
-Устраняет жар, гармонизирует Селезёнку и Желудок. Применяется при болях в желудке, запоре, лихорадочных заболеваниях без потоотделения.
+Очищает от Жара, регулирует и тонизирует Селезёнку, устраняет Сырость-Жар.
 
 ## Classification
 

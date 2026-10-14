@@ -4,6 +4,8 @@ name: "LU 8 Acupuncture Point"
 name_ru: "LU 8 (Цзинцюй)"
 location: "On the radial palmar aspect of the forearm, in the depression between the styloid process of the radius and the radial artery, 1 cun above the transverse crease of the wrist."
 location_ru: "На лучевой ладонной стороне предплечья, в углублении между шиловидным отростком лучевой кости и лучевой артерией, 1 цунь выше поперечной складки запястья."
+benefits_en: "Descends Lung Qi and stops wheezing and cough."
+classification_en: "Jing-River point of the Lung Meridian."
 meridian: "Lung Meridian"
 category: ""
 image: "lu8.jpg"
@@ -28,7 +30,7 @@ On the radial palmar aspect of the forearm, in the depression between the styloi
 
 ## Benefits
 
-Очищает лёгкие от жара, опускает Ци Лёгких, останавливает кашель и одышку. Применяется при кашле, астме, боли в груди, боли в горле, боли в запястье.
+Опускает Ци Лёгких, останавливает одышку и кашель.
 
 ## Classification
 

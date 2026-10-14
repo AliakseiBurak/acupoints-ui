@@ -4,6 +4,8 @@ name: "TE 1 Acupuncture Point"
 name_ru: "TE 1 (Гуаньчун)"
 location: "On the ulnar side of the distal phalanx of the ring finger, 0.1 cun distance from the nail."
 location_ru: "На локтевой стороне дистальной фаланги безымянного пальца, на расстоянии 0.1 цуня от ногтя."
+benefits_en: "Clears Heat, dispels Wind, benefits the throat, eyes and ears, resuscitates."
+classification_en: "Jing-Well point of the San Jiao Meridian"
 meridian: "Triple Energizer Meridian"
 category: ""
 image: "te1.jpg"
@@ -29,7 +31,7 @@ On the ulnar side of the distal phalanx of the ring finger, 0.1 cun distance fro
 
 ## Benefits
 
-Очищает от жара, открывает отверстия, пробуждает дух. Применяется при лихорадочных заболеваниях, потере сознания, боли в горле, головной боли, покраснении глаз, глухоте.
+Очищает от Жара, изгоняет Ветер, благотворно влияет на горло, глаза и уши, возвращает к жизни.
 
 ## Classification
 

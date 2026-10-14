@@ -4,6 +4,8 @@ name: "TE 4 Acupuncture Point"
 name_ru: "TE 4 (Янчи)"
 location: "On the transverse crease of the dorsum of the wrist, in the depression on the ulnar side of the tendon of muscle extensor digitorum communis."
 location_ru: "На поперечной складке тыльной стороны запястья, в углублении на локтевой стороне сухожилия общего разгибателя пальцев."
+benefits_en: "Clears Heat, activates the meridian, relaxes the sinews, alleviates pain."
+classification_en: "Yuan-Source point of the San Jiao Meridian"
 meridian: "Triple Energizer Meridian"
 category: ""
 image: "te4.jpg"
@@ -30,7 +32,7 @@ On the transverse crease of the dorsum of the wrist, in the depression on the ul
 
 ## Benefits
 
-Очищает от жара, устраняет Ветер, гармонизирует Тройной Обогреватель. Применяется при диабете, малярии, боли в запястье, глухоте.
+Очищает от Жара, активирует меридиан, успокаивает сухожилия, убирает боль.
 
 ## Classification
 

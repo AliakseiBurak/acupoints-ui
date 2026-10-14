@@ -4,6 +4,8 @@ name: "SP 8 Acupuncture Point"
 name_ru: "SP 8 (Дицзи)"
 location: "On the medial aspect of the lower leg, 3 cun below SP 9, on the line connecting the tip of the medial malleolus and SP 9."
 location_ru: "На медиальной поверхности голени, 3 цуня ниже SP 9, на линии, соединяющей верхушку медиальной лодыжки с SP 9."
+benefits_en: "Harmonizes the Spleen, regulates menstruation and the uterus, moves Blood, regulates Qi."
+classification_en: "Xi-Cleft point of the Spleen Meridian."
 meridian: "Spleen Meridian"
 category: ""
 image: "sp8.jpg"
@@ -29,7 +31,7 @@ On the medial aspect of the lower leg, 3 cun below SP 9, on the line connecting 
 
 ## Benefits
 
-Укрепляет Селезёнку и гармонизирует Желудок, останавливает диарею. Применяется при боли в животе, диарее, дизурии, отёках, нерегулярных менструациях, дисменорее, сперматорее, импотенции, боли в пояснице.
+Гармонизирует Селезёнку, регулирует менструации и матку, двигает Кровь, регулирует Ци.
 
 ## Classification
 

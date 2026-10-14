@@ -4,6 +4,8 @@ name: "LR 9 Acupuncture Point"
 name_ru: "LR 9 (Иньбао)"
 location: "On the medial aspect of the thigh, 4 cun above the medial epicondyle of the femur, between muscle vastus medialis and muscle sartorius."
 location_ru: "На медиальной стороне бедра, 4 цуня выше медиального мыщелка бедренной кости, между медиальной широкой мышцей бедра и портняжной мышцей."
+benefits_en: "Regulates Liver Qi and the Lower Jiao."
+classification_en: "Point of the Liver Meridian (not one of the five Shu points)."
 meridian: "Liver Meridian"
 category: ""
 image: "lr9.jpg"
@@ -28,7 +30,7 @@ On the medial aspect of the thigh, 4 cun above the medial epicondyle of the femu
 
 ## Benefits
 
-Регулирует Ци Печени, устраняет застой в нижней части живота, регулирует менструации. Применяется при пояснично-крестцовой боли, боли в нижней части живота, дизурии, энурезе и нерегулярных менструациях.
+Регулирует Ци Печени и Нижний обогреватель.
 
 ## Classification
 

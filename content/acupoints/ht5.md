@@ -4,6 +4,8 @@ name: "HT 5 Acupuncture Point"
 name_ru: "HT 5 (Тунли)"
 location: "When the palm faces upward, the point is on the radial side of the tendon of muscle flexor carpi ulnaris, 1 cun above the transverse crease of the wrist."
 location_ru: "При обращённой вверх ладони точка находится на лучевой стороне сухожилия локтевого сгибателя запястья, в 1 цунем выше поперечной складки запястья."
+benefits_en: "Calms the Shen, benefits the tongue, regulates heartbeat."
+classification_en: "Luo-Connecting point of the Heart Meridian"
 meridian: "Heart Meridian"
 category: ""
 image: "ht5.jpg"
@@ -29,9 +31,7 @@ When the palm faces upward, the point is on the radial side of the tendon of mus
 
 ## Benefits
 
-- Внезапная потеря голоса, скованность языка
-- Боль в запястье и руке
-- Сердцебиение и сильное сердцебиение
+Успокаивает Дух (Шэнь), улучшает язык, регулирует сердцебиение.
 
 ## Classification
 

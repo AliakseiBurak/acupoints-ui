@@ -4,6 +4,8 @@ name: "ST 3 Acupuncture Point"
 name_ru: "ST 3 (Цзяоляо)"
 location: "On the face, directly below the pupil of the eye, at the level of the lower border of the ala nasi, on the lateral side of the nasolabial groove."
 location_ru: "На лице, прямо под зрачком глаза, на уровне нижнего края крыла носа, на латеральной стороне носогубной складки."
+benefits_en: "Dispels Wind, and relieves swelling and pain."
+classification_en: "Crossing point of the Stomach Meridian and the Yang Qiao Vessel."
 meridian: "Stomach Meridian"
 category: ""
 image: "st3.jpg"
@@ -29,7 +31,7 @@ On the face, directly below the pupil of the eye, at the level of the lower bord
 
 ## Benefits
 
-Устраняет Ветер и облегчает боль. Применяется при параличе лица, подёргивании век, носовом кровотечении, зубной боли, отёке губ и щёк.
+Изгоняет Ветер, устраняет отёк и боль.
 
 ## Classification
 

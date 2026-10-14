@@ -4,6 +4,8 @@ name: "LU 3 Acupuncture Point"
 name_ru: "LU 3 (Тяньфу)"
 location: "On the medial aspect of the upper arm, on the radial side of muscle biceps brachii, 3 cun below the front end of the axillary fossa."
 location_ru: "На медиальной стороне плеча, на лучевой стороне двуглавой мышцы плеча, 3 цуня ниже переднего конца подмышечной впадины."
+benefits_en: "Descends Lu qi, stops bleeding, calms the po."
+classification_en: "Window of the Sky point."
 meridian: "Lung Meridian"
 category: ""
 image: "lu3.jpg"
@@ -30,7 +32,7 @@ On the medial aspect of the upper arm, on the radial side of muscle biceps brach
 
 ## Benefits
 
-Опускает Ци Лёгких, очищает лёгкие от жара, открывает носовые проходы, успокаивает дух (Шэнь). Применяется при носовом кровотечении, кашле, астме, боли в плече и медиальной стороне плеча, а также при психологических проблемах, таких как депрессия, головокружение, забывчивость и спутанность сознания (точка «Окно Неба»).
+Опускает Ци Лёгких, останавливает кровотечение, успокаивает По.
 
 ## Classification
 

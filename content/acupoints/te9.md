@@ -4,6 +4,8 @@ name: "TE 9 Acupuncture Point"
 name_ru: "TE 9 (Сыду)"
 location: "On the dorsal aspect of the forearm, on the line connecting TE 4 and the tip of the elbow, 5 cun above the transverse crease of the wrist between the ulna and radius."
 location_ru: "На тыльной стороне предплечья, на линии, соединяющей TE 4 и верхушку локтя, на 5 цуня выше поперечной складки запястья между локтевой и лучевой костями."
+benefits_en: "Activates the meridian, benefits the ears and throat, alleviates pain."
+classification_en: "Ordinary point of the Triple Energizer Meridian."
 meridian: "Triple Energizer Meridian"
 category: ""
 image: "te9.jpg"
@@ -30,7 +32,7 @@ On the dorsal aspect of the forearm, on the line connecting TE 4 and the tip of 
 
 ## Benefits
 
-Очищает от жара, улучшает слух, прочищает каналы. Применяется при мигрени, глухоте, внезапной потере голоса, боли в горле, спазме и боли в верхних конечностях.
+Активирует меридиан, благотворно влияет на уши и горло, убирает боль.
 
 ## Classification
 

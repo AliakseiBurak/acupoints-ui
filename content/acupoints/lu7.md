@@ -4,6 +4,8 @@ name: "LU 7 Acupuncture Point"
 name_ru: "LU 7 (Лециэ)"
 location: "On the radial margin of the forearm, superior to the styloid process of the radius, 1.5 cun above the transverse crease of the wrist."
 location_ru: "На лучевом крае предплечья, выше шиловидного отростка лучевой кости, 1,5 цуня выше поперечной складки запястья."
+benefits_en: "Releases the exterior, expels exterior Wind, helps descend Lung Qi, benefits the head and neck area, benefits the bladder."
+classification_en: "Luo-Connecting point of the Lung Meridian."
 meridian: "Lung Meridian"
 category: ""
 image: "lu7.jpg"
@@ -30,7 +32,7 @@ On the radial margin of the forearm, superior to the styloid process of the radi
 
 ## Benefits
 
-Выводит патогенный фактор из меридиана Лёгких, открывает носовые проходы, успокаивает дух (Шэнь). Применяется при проблемах головы и шеи: мигренях (центральных и односторонних), головных болях, вызванных внешними патогенами, ригидности шеи, паралице лица, зубной боли, боли в горле, кашле, астме, носовых проблемах; при проблемах мочеполовой системы: боли в половом члене, гематурии, сперматорее; вздутии живота; слабости большого и указательного пальцев.
+Освобождает поверхность, изгоняет наружный Ветер, помогает опускать Ци Лёгких, улучшает область головы и шеи, улучшает Мочевой пузырь.
 
 ## Classification
 

@@ -37,7 +37,17 @@ function parseMarkdown(content) {
     });
     
     result.body = bodyLines.join('\n');
+    result.benefits = extractSection(result.body, 'Benefits');
+    result.classification = extractSection(result.body, 'Classification');
     return result;
+}
+
+function extractSection(body, title) {
+    const start = new RegExp(`^##\\s+${title}\\s*$`, 'mi').exec(body);
+    if (!start) return '';
+    const rest = body.slice(start.index + start[0].length);
+    const next = /^##\s+/m.exec(rest);
+    return (next ? rest.slice(0, next.index) : rest).trim();
 }
 
 function loadContent() {
@@ -119,8 +129,9 @@ app.get('/api/acupoints/search/:term', (req, res) => {
             acupoint.id, acupoint.name, acupoint.name_ru,
             acupoint.location, acupoint.location_ru,
             acupoint.meridian, acupoint.category,
-            acupoint.benefits, acupoint.description,
-            acupoint.indications, acupoint.classification,
+            acupoint.benefits, acupoint.benefits_en,
+            acupoint.classification, acupoint.classification_en,
+            acupoint.description, acupoint.indications,
             acupoint.body
         ];
         return searchable.some(field => 

@@ -4,6 +4,8 @@ name: "TE 2 Acupuncture Point"
 name_ru: "TE 2 (Емэнь)"
 location: "On the dorsum of the hand, proximal to the margin of the web between the 4th and 5th fingers, at the junction of the red and white skin."
 location_ru: "На тыльной стороне кисти, проксимальнее края перепонки между 4-м и 5-м пальцами, на границе красной и белой кожи."
+benefits_en: "Clears Heat, dispels Wind, benefits the ears, activates the meridian."
+classification_en: "Ying-Spring point of the San Jiao Meridian"
 meridian: "Triple Energizer Meridian"
 category: ""
 image: "te2.jpg"
@@ -29,7 +31,7 @@ On the dorsum of the hand, proximal to the margin of the web between the 4th and
 
 ## Benefits
 
-Очищает от жара, улучшает слух и зрение. Применяется при малярии, боли в горле, головной боли, покраснении глаз, глухоте.
+Очищает от Жара, изгоняет Ветер, благотворно влияет на уши, активирует меридиан.
 
 ## Classification
 

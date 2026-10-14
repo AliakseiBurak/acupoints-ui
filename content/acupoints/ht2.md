@@ -4,6 +4,8 @@ name: "HT 2 Acupuncture Point"
 name_ru: "HT 2 (Цинлин)"
 location: "On the medial aspect of the upper arm, 3 cun above the transverse cubital crease on the line connecting HT 1 and HT 3, in the groove medial to muscle biceps brachii."
 location_ru: "На медиальной поверхности плеча, в 3 цуня выше поперечной локтевой складки на линии, соединяющей HT 1 и HT 3, в борозде медиально от двуглавой мышцы плеча."
+benefits_en: "Activates the meridian, benefits the arm, alleviates pain."
+classification_en: "Ordinary point of the Heart Meridian."
 meridian: "Heart Meridian"
 category: ""
 image: "ht2.jpg"
@@ -28,9 +30,8 @@ On the medial aspect of the upper arm, 3 cun above the transverse cubital crease
 
 ## Benefits
 
-- Сердечная боль, боль в подреберье
-- Боль в плече и руке
+Активирует меридиан, улучшает руку, облегчает боль.
 
 ## Classification
 
-Точка меридиана Сердца (Heart Meridian), точка на меридиане.
+Точка меридиана Сердца.

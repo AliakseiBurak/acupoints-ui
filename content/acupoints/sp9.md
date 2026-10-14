@@ -4,6 +4,8 @@ name: "SP 9 Acupuncture Point"
 name_ru: "SP 9 (Иньлинцюань)"
 location: "On the medial aspect of the lower leg, in the depression of the lower border of the medial condyle of the tibia."
 location_ru: "На медиальной поверхности голени, в углублении на нижнем крае медиального мыщелка большеберцовой кости."
+benefits_en: "Resolves Dampness (especially of the Lower Jiao), regulates the Spleen, frees the water passages and urination."
+classification_en: "He-Sea point of the Spleen Meridian"
 meridian: "Spleen Meridian"
 category: ""
 image: "sp9.jpg"
@@ -30,7 +32,7 @@ On the medial aspect of the lower leg, in the depression of the lower border of 
 
 ## Benefits
 
-Устраняет Сырость, способствует мочеиспусканию. Применяется при дизурии, недержании мочи, отёках, вздутии живота, диарее, желтухе, боли в медиальной части колена, боли в половом члене, дисменорее, боли в вульве.
+Устраняет Сырость (особенно в Нижнем обогревателе), регулирует Селезёнку, освобождает водные пути и облегчает мочеиспускание.
 
 ## Classification
 

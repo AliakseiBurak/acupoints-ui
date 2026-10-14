@@ -4,6 +4,8 @@ name: "GB 1 Acupuncture Point"
 name_ru: "GB 1 (Тунцзылянь)"
 location: "On the region of the face, lateral to the outer canthus of the lateral side of the orbit."
 location_ru: "В области лица, латеральнее наружного угла глаза на латеральной стороне орбиты."
+benefits_en: "Dispels Wind, benefits the eyes, clears Heat."
+classification_en: "Crossing point of the Gall Bladder, the Small Intestine, and San Jiao Meridians"
 meridian: "Gallbladder Meridian"
 category: ""
 image: "gb1.jpg"
@@ -29,9 +31,7 @@ On the region of the face, lateral to the outer canthus of the lateral side of t
 
 ## Benefits
 
-- Головная боль, покраснение, отёк и боль глаза
-- Мутность (помутнение роговицы)
-- Глаукома
+Изгоняет Ветер, улучшает зрение, очищает от Жара.
 
 ## Classification
 

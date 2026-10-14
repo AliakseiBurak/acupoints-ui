@@ -4,6 +4,8 @@ name: "GB 2 Acupuncture Point"
 name_ru: "GB 2 (Тинхуэй)"
 location: "On the face, anterior to the inter-tragus notch, at the posterior border of the condyloid process of the mandible. When the mouth is open, the point is in the depression."
 location_ru: "На лице, кпереди от межкозелкового углубления, у заднего края мыщелкового отростка нижней челюсти. При открытом рте точка находится в углублении."
+benefits_en: "Dispels Wind, benefits the eyes, clears Heat, alleviates pain."
+classification_en: "Ordinary point of the Gallbladder Meridian."
 meridian: "Gallbladder Meridian"
 category: ""
 image: "gb2.jpg"
@@ -29,10 +31,8 @@ On the face, anterior to the inter-tragus notch, at the posterior border of the 
 
 ## Benefits
 
-- Тиннитус, глухота
-- Зубная боль
-- Перекос лица
+Изгоняет Ветер, улучшает зрение, очищает от Жара, облегчает боль.
 
 ## Classification
 
-Точка меридиана Печени (Gallbladder Meridian), точка на меридиане.
+Точка меридиана Желчного пузыря.

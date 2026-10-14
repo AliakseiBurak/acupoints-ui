@@ -4,6 +4,8 @@ name: "SP 1 Acupuncture Point"
 name_ru: "SP 1 (Иньбай)"
 location: "On the medial side of the great toe, 0.1 cun posterior to the corner of the nail."
 location_ru: "На медиальной стороне большого пальца ноги, 0.1 цуня позади угла ногтя."
+benefits_en: "Stops bleeding, regulates the Spleen, calms the shen, revives consciousness."
+classification_en: "Jing-Well point of the Spleen Meridian."
 meridian: "Spleen Meridian"
 category: ""
 image: "sp1.jpg"
@@ -29,7 +31,7 @@ On the medial side of the great toe, 0.1 cun posterior to the corner of the nail
 
 ## Benefits
 
-Останавливает кровотечение, очищает от жара, успокаивает дух. Применяется при меноррагии, метроррагии, кровавом стуле, гематурии, вздутии живота, маниакальном психозе, кошмарах, судорогах.
+Останавливает кровотечение, регулирует Селезёнку, успокаивает Дух (Шэнь), возвращает сознание.
 
 ## Classification
 

@@ -4,6 +4,8 @@ name: "KI 5 Acupuncture Point"
 name_ru: "KI 5 (Шуйцюань)"
 location: "On the medial aspect of the foot, posterior and inferior to the medial malleolus, 1 cun directly below KI 3, in the depression of the medial side of the tuberosity of the calcaneum."
 location_ru: "На медиальной поверхности стопы, позади и ниже медиальной лодыжки, на 1 цунь ниже KI 3, в углублении на медиальной стороне бугристости пяточной кости."
+benefits_en: "Regulates menstruation, benefits urination."
+classification_en: "Xi-Cleft point of the Kidney Meridian"
 meridian: "Kidney Meridian"
 category: ""
 image: "ki5.jpg"
@@ -28,8 +30,7 @@ On the medial aspect of the foot, posterior and inferior to the medial malleolus
 
 ## Benefits
 
-- Нерегулярные менструации, дисменорея, аменорея, пролапс матки
-- Дизурия
+Регулирует менструации, благотворно влияет на мочеиспускание.
 
 ## Classification
 

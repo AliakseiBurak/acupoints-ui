@@ -4,6 +4,8 @@ name: "SP 4 Acupuncture Point"
 name_ru: "SP 4 (Гунсунь)"
 location: "On the medial aspect of the foot, in the depression distal and inferior to the base of the first metatarsal bone."
 location_ru: "На медиальной поверхности стопы, в углублении дистальнее и ниже основания первой плюсневой кости."
+benefits_en: "Strengthens the Spleen, harmonizes the middle jiao, resolves dampness, regulates the Chong Mai, regulates menstruation."
+classification_en: "Luo-Connecting point of the Spleen Meridian."
 meridian: "Spleen Meridian"
 category: ""
 image: "sp4.jpg"
@@ -28,7 +30,7 @@ On the medial aspect of the foot, in the depression distal and inferior to the b
 
 ## Benefits
 
-Укрепляет Селезёнку и гармонизирует Желудок, успокаивает дух. Применяется при острых болях в желудке, вздутии и стеснении в желудке, плохом аппетите, боли вокруг пупка, диарее, кровавом стуле, боли в эпигастрии, стеснении в груди, вздутии в подреберье.
+Укрепляет Селезёнку, гармонизирует Средний обогреватель, устраняет Сырость, регулирует сосуд Чун, регулирует менструации.
 
 ## Classification
 

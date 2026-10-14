@@ -4,6 +4,8 @@ name: "Li 2 Acupuncture Point"
 name_ru: "LI 2 (Эрцзянь)"
 location: "When a loose fist is made, this point is on the radial side of the index finger, in the depression distal to the metacarpo-phalangeal joint."
 location_ru: "При свободном сжатии кулака точка находится на лучевой стороне указательного пальца, в углублении дистальнее пястно-фалангового сустава."
+benefits_en: "Clears Heat, reduces swelling and relieves pain."
+classification_en: "Ying-Spring point of the Large Intestine Meridian"
 meridian: "Large Intestine Meridian"
 category: ""
 image: "li2.jpg"
@@ -29,9 +31,7 @@ When a loose fist is made, this point is on the radial side of the index finger,
 
 ## Benefits
 
-- Зубная боль, боль в горле
-- Покраснение и боль глаза
-- Боль и отёк суставов указательного пальца
+Очищает от Жара, устраняет отёк, снимает боль.
 
 ## Classification
 

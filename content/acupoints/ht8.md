@@ -4,6 +4,8 @@ name: "HT 8 Acupuncture Point"
 name_ru: "HT 8 (Шаофу)"
 location: "On the palm, between the 4th and 5th metacarpal bones. When a fist is made, the point is where the tip of the little finger touches."
 location_ru: "На ладони, между 4-й и 5-й пястными костями. При сжатии кулака точка находится там, где касается кончик мизинца."
+benefits_en: "Calms the Shen, clears Heat (mostly excess type), clears Heat from Heart and Small Intestine."
+classification_en: "Ying-Spring point of the Heart Meridian"
 meridian: "Heart Meridian"
 category: ""
 image: "ht8.jpg"
@@ -29,9 +31,7 @@ On the palm, between the 4th and 5th metacarpal bones. When a fist is made, the 
 
 ## Benefits
 
-- Зуд и боль наружных половых органов
-- Спастическая боль мизинца
-- Сердцебиение, боль в груди
+Успокаивает Дух (Шэнь), очищает Жар (преимущественно избыточного типа), очищает Жар от Сердца и Тонкой кишки.
 
 ## Classification
 

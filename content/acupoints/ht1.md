@@ -4,6 +4,8 @@ name: "HT 1 Acupuncture Point"
 name_ru: "HT 1 (Цзюйцюань)"
 location: "At the apex of the axillary fossa, where the axillary artery pulsates."
 location_ru: "На вершине подмышечной впадины, где пульсирует подмышечная артерия."
+benefits_en: "Frees the chest, activates the meridian, benefits the arm."
+classification_en: "Ordinary point of the Heart Meridian."
 meridian: "Heart Meridian"
 category: ""
 image: "ht1.jpg"
@@ -28,9 +30,8 @@ At the apex of the axillary fossa, where the axillary artery pulsates.
 
 ## Benefits
 
-- Ощущение тяжести в груди, одышка, грусть, тревожность
-- Апоплексия, гемиплегия, боль в плече и руке, распирание и боль в груди и подреберье
+Освобождает грудь, активирует меридиан, улучшает руку.
 
 ## Classification
 
-Точка меридиана Сердца (Heart Meridian), точка на меридиане.
+Точка меридиана Сердца.

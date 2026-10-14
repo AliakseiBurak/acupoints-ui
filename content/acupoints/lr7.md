@@ -4,6 +4,8 @@ name: "LR 7 Acupuncture Point"
 name_ru: "LR 7 (Сигуань)"
 location: "On the medial aspect of the lower leg, posterior and inferior to the medial condyle of the tibia, in the upper portion of the medial head of muscle gastrocnemius, 1 cun posterior to SP 9."
 location_ru: "На медиальной стороне голени, позади и ниже медиального мыщелка большеберцовой кости, в верхней части медиальной головки икроножной мышцы, 1 цунь позади SP 9."
+benefits_en: "Benefits the knees, relieves pain, dispels Wind-Dampness."
+classification_en: "Point of the Liver Meridian (not one of the five Shu points)."
 meridian: "Liver Meridian"
 category: ""
 image: "lr7.jpg"
@@ -27,7 +29,7 @@ On the medial aspect of the lower leg, posterior and inferior to the medial cond
 
 ## Benefits
 
-Устраняет застой Ци и крови в области колена, уменьшает отёк и боль. Применяется при отёке и боли в колене.
+Укрепляет колени, убирает боль, изгоняет Ветер-Сырость.
 
 ## Classification
 

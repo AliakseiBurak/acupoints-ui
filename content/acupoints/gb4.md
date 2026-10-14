@@ -4,6 +4,8 @@ name: "GB 4 Acupuncture Point"
 name_ru: "GB 4 (Ханьянь)"
 location: "Within the hairline of the temporal region, at the junction of the upper 1/4 and lower 3/4 of the arc connecting ST 8 and GB 7."
 location_ru: "В пределах линии роста волос височной области, на стыке верхней 1/4 и нижних 3/4 дуги, соединяющей ST 8 и GB 7."
+benefits_en: "Dispels Wind, clears Heat, relieves pain."
+classification_en: "Crossing point of the Gall Bladder, the Stomach, and San Jiao Meridians"
 meridian: "Gallbladder Meridian"
 category: ""
 image: "gb4.jpg"
@@ -30,10 +32,7 @@ Within the hairline of the temporal region, at the junction of the upper 1/4 and
 
 ## Benefits
 
-- Мигрень, головокружение
-- Тиннитус
-- Зубная боль
-- Эпилепсия
+Изгоняет Ветер, очищает от Жара, снимает боль.
 
 ## Classification
 

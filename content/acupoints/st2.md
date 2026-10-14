@@ -4,6 +4,8 @@ name: "ST 2 Acupuncture Point"
 name_ru: "ST 2 (Сыбай)"
 location: "On the face, the point is directly below the pupil of the eye, in the depression at the infraorbital foramen."
 location_ru: "На лице, точка расположена прямо под зрачком глаза, в углублении у подглазничного отверстия."
+benefits_en: "Dispels Wind, benefits the eyes, and clears Heat."
+classification_en: "Ordinary point of the Stomach Meridian."
 meridian: "Stomach Meridian"
 category: ""
 image: "st2.jpg"
@@ -29,7 +31,7 @@ On the face, the point is directly below the pupil of the eye, in the depression
 
 ## Benefits
 
-Прочищает глаза и устраняет Ветер. Применяется при близорукости, помутнении роговицы, покраснении, зуде и боли в глазах, подёргивании век, перекосе лица, боли в лице.
+Изгоняет Ветер, улучшает зрение, очищает от Жара.
 
 ## Classification
 

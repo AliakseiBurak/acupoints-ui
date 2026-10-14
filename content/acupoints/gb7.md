@@ -4,6 +4,8 @@ name: "GB 7 Acupuncture Point"
 name_ru: "GB 7 (Цюйбинь)"
 location: "Within the hairline of the temporal region, at the junction of the upper 3/4 and lower 1/4 of the arc connecting ST 8 and GB 7."
 location_ru: "В пределах линии роста волос височной области, на стыке верхних 3/4 и нижней 1/4 дуги, соединяющей ST 8 и GB 7."
+benefits_en: "Dispels Wind, clears Heat, relieves pain."
+classification_en: "Crossing point of the Gall Bladder and Urinary Bladder Meridians"
 meridian: "Gallbladder Meridian"
 category: ""
 image: "gb7.jpg"
@@ -28,8 +30,7 @@ Within the hairline of the temporal region, at the junction of the upper 3/4 and
 
 ## Benefits
 
-- Головная боль
-- Зубная боль, тризм, острая афония
+Изгоняет Ветер, очищает от Жара, снимает боль.
 
 ## Classification
 

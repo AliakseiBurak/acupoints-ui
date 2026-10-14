@@ -4,6 +4,8 @@ name: "ST 8 Acupuncture Point"
 name_ru: "ST 8 (Тоувэй)"
 location: "On both sides of the scalp, 0.5 cun above the hairline at the corner of the forehead, 4.5 cun lateral from the midline of the head."
 location_ru: "По обе стороны кожи головы, на 0.5 цуня выше линии роста волос в углу лба, на 4.5 цуня латеральнее средней линии головы."
+benefits_en: "Dispels Wind, benefits the eyes, relieves pain."
+classification_en: "Crossing point of the Stomach and Gall Bladder Meridians and the Yang Wei Vessel."
 meridian: "Stomach Meridian"
 category: ""
 image: "st8.jpg"
@@ -28,7 +30,7 @@ On both sides of the scalp, 0.5 cun above the hairline at the corner of the fore
 
 ## Benefits
 
-Устраняет Ветер и облегчает боль. Применяется при головной боли, головокружении, нечётком зрении, боли в глазах, слезотечении, подёргивании век.
+Изгоняет Ветер, улучшает зрение, устраняет боль.
 
 ## Classification
 

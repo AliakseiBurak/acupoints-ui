@@ -4,6 +4,8 @@ name: "KI 7 Acupuncture Point"
 name_ru: "KI 7 (Фулю)"
 location: "On the medial aspect of the lower leg, 2 cun directly above KI 3, anterior to tendo calcaneus."
 location_ru: "На медиальной поверхности голени, на 2 цунь выше KI 3, спереди от ахиллова сухожилия."
+benefits_en: "Strengthens the Kidneys, resolves Dampness, regulates sweating, treats edema, strengthens the low back."
+classification_en: "Jing-River point of the Kidney Meridian"
 meridian: "Kidney Meridian"
 category: ""
 image: "ki7.jpg"
@@ -29,9 +31,7 @@ On the medial aspect of the lower leg, 2 cun directly above KI 3, anterior to te
 
 ## Benefits
 
-- Отёк, вздутие живота, диарея
-- Лихорадочное заболевание без потоотделения или с непрерывным потоотделением, ночная потливость
-- Слабость, онемение и боль в нижних конечностях
+Укрепляет Почки, устраняет Сырость, регулирует потоотделение, устраняет отёки, укрепляет поясницу.
 
 ## Classification
 

@@ -4,6 +4,8 @@ name: "Li 4 Acupuncture Point"
 name_ru: "LI 4 (Хэгу)"
 location: "On the dorsum of the hand, between the 1st and 2nd metacarpal bones, in the middle of the 2nd metacarpal bone on the radial side."
 location_ru: "На тыле кисти, между 1-й и 2-й пястными костями, посередине 2-й пястной кости на лучевой стороне."
+benefits_en: "Expels Wind and releases the exterior, tonifies qi and strengthens immunity, stops pain, regulates the face and head area, and induces labor."
+classification_en: "Yuan-Source point of the Large Intestine Meridian"
 meridian: "Large Intestine Meridian"
 category: ""
 image: "li4.jpg"
@@ -33,13 +35,7 @@ On the dorsum of the hand, between the 1st and 2nd metacarpal bones, in the midd
 
 ## Benefits
 
-- Заболевания головы и лица: головная боль и ломота в теле от внешних патогенов, головокружение, заложенность, отёк и боль глаза, назофарингит, носовое кровотечение, зубная боль в нижней челюсти, тризм (сведение челюстей), глухота, эпидемический паротит, отёк лица, паралич лица, лицевой тик, отёк глотки и афония (немота).
-- Непереносимость холода, лихорадка, лихорадочное заболевание, ангидроз (отсутствие потоотделения), гидроз.
-- Дисменорея, аменорея, дистония родов (затруднённые или патологические роды).
-- Желудочная боль, боль в животе, запор, диарея, дизентерия.
-- Гемиплегия, спазм пальцев, боль в руке, детские судороги, маниакальный психоз и раздражительность.
-- Злокачественные язвы, крапивница, чесотка.
-- Любой тип боли и психогенное напряжение.
+Изгоняет Ветер и освобождает поверхность, тонизирует Ци и укрепляет иммунитет, снимает боль, регулирует область лица и головы, способствует родам.
 
 ## Classification
 

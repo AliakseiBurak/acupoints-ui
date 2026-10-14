@@ -4,6 +4,8 @@ name: "LU 2 Acupuncture Point"
 name_ru: "LU 2 (Юньмэнь)"
 location: "On the upper lateral chest, above the acromioscapula, in the depression below the acromial end of the clavicle, 6 cun from the midline of the chest."
 location_ru: "На верхнелатеральной части грудной клетки, выше акромиона, в углублении ниже акромиального конца ключицы, 6 цуня от срединной линии грудной клетки."
+benefits_en: "Regulates and descends Lung Qi, disperses chest fullness, stops cough."
+classification_en: "Point of the Lung Meridian (not one of the five Shu points)."
 meridian: "Lung Meridian"
 category: ""
 image: "lu2.jpg"
@@ -29,7 +31,7 @@ On the upper lateral chest, above the acromioscapula, in the depression below th
 
 ## Benefits
 
-Рассеивает и опускает Ци Лёгких, очищает лёгкие от жара, останавливает кашель и одышку. Применяется при кашле, астме, боли в груди, боли в плече и спине.
+Регулирует и опускает Ци Лёгких, рассеивает застой в груди, останавливает кашель.
 
 ## Classification
 

@@ -4,6 +4,8 @@ name: "LR 2 Acupuncture Point"
 name_ru: "LR 2 (Синцзянь)"
 location: "On the dorsum of the foot, proximal to the margin of the web between the 1st and 2nd toes, at the junction of the red and white skin."
 location_ru: "На тыльной стороне стопы, проксимальнее края межпальцевой складки между 1-м и 2-м пальцами, на границе красной и белой кожи."
+benefits_en: "Clears Liver Heat, expels interior Wind, subdues Liver Yang, regulates Liver Qi, benefits the Lower Jiao."
+classification_en: "Ying-Spring point of the Liver Meridian"
 meridian: "Liver Meridian"
 category: ""
 image: "lr2.jpg"
@@ -30,7 +32,7 @@ On the dorsum of the foot, proximal to the margin of the web between the 1st and
 
 ## Benefits
 
-Очищает Печень от жара, успокаивает ветер Печени, регулирует менструации. Применяется при покраснении, отёке и боли в глазах, глаукоме, бессоннице, эпилепсии, нерегулярных менструациях, дисменорее, маточных кровотечениях, патологических белях, дизурии и болезненном мочеиспускании.
+Очищает Печень от Жара, изгоняет внутренний Ветер, усмиряет Ян Печени, регулирует Ци Печени, благотворно влияет на Нижний обогреватель.
 
 ## Classification
 

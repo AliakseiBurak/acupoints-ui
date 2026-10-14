@@ -4,6 +4,8 @@ name: "SP 5 Acupuncture Point"
 name_ru: "SP 5 (Шанцю)"
 location: "On the depression distal and inferior to the medial malleolus, midpoint between the tuberosity of the navicular bone and the tip of the medial malleolus."
 location_ru: "В углублении дистальнее и ниже медиальной лодыжки, посередине между бугром ладьевидной кости и верхушкой медиальной лодыжки."
+benefits_en: "Strengthens the Spleen and Stomach, resolves dampness."
+classification_en: "Jing-River point of the Spleen Meridian."
 meridian: "Spleen Meridian"
 category: ""
 image: "sp5.jpg"
@@ -29,7 +31,7 @@ On the depression distal and inferior to the medial malleolus, midpoint between 
 
 ## Benefits
 
-Укрепляет Селезёнку и устраняет Сырость. Применяется при боли в стопе и лодыжке, геморрое, вздутии и боли в животе, диарее, запоре.
+Укрепляет Селезёнку и Желудок, устраняет Сырость.
 
 ## Classification
 

@@ -4,6 +4,8 @@ name: "KI 2 Acupuncture Point"
 name_ru: "KI 2 (Жангу)"
 location: "On the medial aspect of the foot, below the tuberosity of the navicular bone, at the junction of the red and white skin."
 location_ru: "На медиальной поверхности стопы, ниже бугристости ладьевидной кости, на границе красной и белой кожи."
+benefits_en: "Clears deficiency Heat, regulates the Lower Jiao."
+classification_en: "Ying-Spring point of the Kidney Meridian"
 meridian: "Kidney Meridian"
 category: ""
 image: "ki2.jpg"
@@ -29,9 +31,7 @@ On the medial aspect of the foot, below the tuberosity of the navicular bone, at
 
 ## Benefits
 
-- Пролапс матки, зуд вульвы, нерегулярные менструации, кровянистые бели
-- Острый младенческий омфалит (инфекция пуповинного остатка), тризм (сведение челюстей)
-- Сперматорея, диабет, отёк и боль на тыле стопы
+Очищает Жар Пустоты, регулирует Нижний обогреватель.
 
 ## Classification
 

@@ -4,6 +4,8 @@ name: "LU 5 Acupuncture Point"
 name_ru: "LU 5 (Чжэцзы)"
 location: "On the cubital crease, on the radial side of the tendon muscle biceps brachii."
 location_ru: "На локтевой складке, на лучевой стороне сухожилия двуглавой мышцы плеча."
+benefits_en: "Clears Lung Heat and descends Lung Qi, expels Lung phlegm, relaxes the sinews, frees the water passages."
+classification_en: "He-Sea point of the Lung Meridian."
 meridian: "Lung Meridian"
 category: ""
 image: "lu5.jpg"
@@ -32,7 +34,7 @@ On the cubital crease, on the radial side of the tendon muscle biceps brachii.
 
 ## Benefits
 
-Очищает лёгкие от жара, опускает Ци Лёгких, останавливает кашель и одышку, выводит воду и уменьшает отёк. Применяется при кашле, астме, кровохарканье, дневной лихорадке, застое в груди, боли в горле, острой боли в животе с рвотой и диареей, детских судорогах, спастической боли в локте и руке, задержке мочи.
+Очищает Жар Лёгких и опускает Ци Лёгких, изгоняет мокроту из Лёгких, расслабляет сухожилия, открывает водные пути.
 
 ## Classification
 

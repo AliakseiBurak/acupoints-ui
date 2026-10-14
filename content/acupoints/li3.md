@@ -4,6 +4,8 @@ name: "Li 3 Acupuncture Point"
 name_ru: "LI 3 (Саньцзянь)"
 location: "When a loose fist is made, this point is on the radial side of the index finger, in the depression proximal to the metacarpo-phalangeal joint."
 location_ru: "При свободном сжатии кулака точка находится на лучевой стороне указательного пальца, в углублении проксимальнее пястно-фалангового сустава."
+benefits_en: "Clears Heat and wind, benefit the eyes and throat."
+classification_en: "Shu-Stream point of the Large Intestine Meridian"
 meridian: "Large Intestine Meridian"
 category: ""
 image: "li3.jpg"
@@ -28,8 +30,7 @@ When a loose fist is made, this point is on the radial side of the index finger,
 
 ## Benefits
 
-- Боль в глазу, зубная боль, боль в горле
-- Лихорадка, покраснение и отёк пальцев и тыла кисти
+Очищает от Жара и Ветра, благотворно влияет на глаза и горло.
 
 ## Classification
 

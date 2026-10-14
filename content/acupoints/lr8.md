@@ -4,6 +4,8 @@ name: "LR 8 Acupuncture Point"
 name_ru: "LR 8 (Цюйцюань)"
 location: "On the medial aspect of the knee, when the knee is flexed, the point is in the depression on the medial end of the transverse popliteal crease, on the posterior border of the medial epicondyle of the femur, on the anterior portion of the insertion of muscle semitendinosus and muscle semimembranosus."
 location_ru: "На медиальной стороне колена, при сгибании колена точка находится в углублении на медиальном конце поперечной подколенной складки, на заднем крае медиального мыщелка бедренной кости, на передней части места прикрепления полусухожильной и полуперепончатой мышц."
+benefits_en: "Nourishes Liver Blood and Yin, moves the Blood, resolves Damp-Heat in the Lower Jiao, benefits the genitals."
+classification_en: "He-Sea point of the Liver Meridian"
 meridian: "Liver Meridian"
 category: ""
 image: "lr8.jpg"
@@ -30,7 +32,7 @@ On the medial aspect of the knee, when the knee is flexed, the point is in the d
 
 ## Benefits
 
-Регулирует Печень и Почки, устраняет сырость-жар в нижней части тела, укрепляет колени и бёдра. Применяется при боли в нижней части живота, дизурии, сперматорее, опущении матки, зуде вульвы, боли в наружных половых органах, нерегулярных менструациях, патологических белях, дисменорее, боли в медиальной стороне колена и бедра.
+Питает Кровь и Инь Печени, движет Кровь, устраняет Сырость-Жар в Нижнем обогревателе, благотворно влияет на половые органы.
 
 ## Classification
 

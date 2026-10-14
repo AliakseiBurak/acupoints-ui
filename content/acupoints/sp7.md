@@ -4,6 +4,8 @@ name: "SP 7 Acupuncture Point"
 name_ru: "SP 7 (Лоугу)"
 location: "On the medial aspect of the lower leg, 6 cun above the medial malleolus on the line connecting the tip of the medial malleolus and SP 9, on the posterior border of the medial aspect of the tibia."
 location_ru: "На медиальной поверхности голени, 6 цуня выше медиальной лодыжки на линии, соединяющей верхушку медиальной лодыжки с SP 9, по заднему краю медиальной поверхности большеберцовой кости."
+benefits_en: "Tonifies the Spleen, resolves Dampness."
+classification_en: "Jing-River point of the Spleen Meridian."
 meridian: "Spleen Meridian"
 category: ""
 image: "sp7.jpg"
@@ -28,7 +30,7 @@ On the medial aspect of the lower leg, 6 cun above the medial malleolus on the l
 
 ## Benefits
 
-Укрепляет Селезёнку и устраняет Сырость, улучшает перистальтику кишечника. Применяется при урчании в животе, вздутии живота, параличе и онемении нижних конечностей.
+Тонизирует Селезёнку, устраняет Сырость.
 
 ## Classification
 

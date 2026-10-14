@@ -4,6 +4,8 @@ name: "ST 1 Acupuncture Point"
 name_ru: "ST 1 (Цэнци)"
 location: "On the face, the point is directly below the pupil of the eye, between the eyeball and the infraorbital ridge."
 location_ru: "На лице, точка расположена прямо под зрачком глаза, между глазным яблоком и подглазничным гребнем."
+benefits_en: "Dispels Wind, benefits the eyes, clears Heat, and stops lacrimation."
+classification_en: "Crossing point of the Stomach, Yang Qiao and Ren Meridians"
 meridian: "Stomach Meridian"
 category: ""
 image: "st1.jpg"
@@ -29,7 +31,7 @@ On the face, the point is directly below the pupil of the eye, between the eyeba
 
 ## Benefits
 
-Прочищает глаза и устраняет Ветер. Применяется при покраснении, отёке и боли в глазах, слезотечении, куриной слепоте, подёргивании век, перекосе лица.
+Изгоняет Ветер, улучшает зрение, очищает от Жара, устраняет слезотечение.
 
 ## Classification
 

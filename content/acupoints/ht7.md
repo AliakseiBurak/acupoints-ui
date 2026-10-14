@@ -4,6 +4,8 @@ name: "HT 7 Acupuncture Point"
 name_ru: "HT 7 (Шэньмэнь)"
 location: "On the wrist, at the ulnar end of the transverse crease of the wrist, in the depression on the radial side of the tendon muscle flexor carpi ulnaris."
 location_ru: "На запястье, у локтевого конца поперечной складки запястья, в углублении на лучевой стороне сухожилия локтевого сгибателя запястья."
+benefits_en: "Calms the Shen, tonifies and regulates the Heart Blood and Qi."
+classification_en: "Yuan-Source point of the Heart Meridian"
 meridian: "Heart Meridian"
 category: ""
 image: "ht7.jpg"
@@ -29,9 +31,7 @@ On the wrist, at the ulnar end of the transverse crease of the wrist, in the dep
 
 ## Benefits
 
-- Бессонница, амнезия
-- Сердечная боль, сердцебиение от испуга, раздражительность, боль в груди
-- Мания, эпилепсия, ступор
+Успокаивает Дух (Шэнь), тонизирует и регулирует Кровь и Ци Сердца.
 
 ## Classification
 

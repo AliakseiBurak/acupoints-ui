@@ -4,6 +4,8 @@ name: "TE 6 Acupuncture Point"
 name_ru: "TE 6 (Чжигоу)"
 location: "On the dorsal aspect of the forearm, on the line connecting TE 4 and the tip of the elbow, 3 cun above the transverse crease of the wrist between the ulna and radius."
 location_ru: "На тыльной стороне предплечья, на линии, соединяющей TE 4 и верхушку локтя, на 3 цуня выше поперечной складки запястья между локтевой и лучевой костями."
+benefits_en: "Regulates Qi, moves the bowels, clears Heat, activates the meridian."
+classification_en: "Jing-River point of the San Jiao Meridian"
 meridian: "Triple Energizer Meridian"
 category: ""
 image: "te6.jpg"
@@ -29,7 +31,7 @@ On the dorsal aspect of the forearm, on the line connecting TE 4 and the tip of 
 
 ## Benefits
 
-Очищает от жара, прочищает кишечник, устраняет Ветер. Применяется при запоре, боли в подреберье, глухоте, шуме в ушах.
+Регулирует Ци, нормализует стул, очищает от Жара, активирует меридиан.
 
 ## Classification
 

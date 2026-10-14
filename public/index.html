@@ -78,6 +78,7 @@
                 category:       { en: 'Category:', ru: 'Категория:' },
                 location:       { en: 'Location:', ru: 'Расположение:' },
                 benefits:       { en: 'Benefits:', ru: 'Польза:' },
+                classification: { en: 'Classification:', ru: 'Классификация:' },
                 viewDetails:    { en: 'View Full Details', ru: 'Подробнее' },
                 meridians:      { en: 'Meridians', ru: 'Мердианы' },
                 searchBtn:      { en: 'Search', ru: 'Найти' },
@@ -269,16 +270,22 @@
                                     <div class="detail-item">
                                         <strong>${esc(t('meridian'))}</strong> ${esc(point.meridian ? trMeridian(point.meridian) : na)}
                                     </div>
+                                    ${point.category ? `
                                     <div class="detail-item">
-                                        <strong>${esc(t('category'))}</strong> ${esc(point.category || na)}
-                                    </div>
+                                        <strong>${esc(t('category'))}</strong> ${esc(point.category)}
+                                    </div>` : ''}
                                     <div class="detail-item">
                                         <strong>${esc(t('location'))}</strong>
                                         ${esc(currentLang === 'en' ? (point.location || na) : (point.location_ru || point.location || na))}
                                     </div>
-                                    <div class="detail-item">
-                                        <strong>${esc(t('benefits'))}</strong> ${esc(point.benefits || na)}
-                                    </div>
+                                    ${(() => {
+                                        const b = currentLang === 'en' ? (point.benefits_en || point.benefits) : point.benefits;
+                                        return b ? `<div class="detail-item"><strong>${esc(t('benefits'))}</strong> ${esc(b)}</div>` : '';
+                                    })()}
+                                    ${(() => {
+                                        const c = currentLang === 'en' ? (point.classification_en || point.classification) : point.classification;
+                                        return c ? `<div class="detail-item"><strong>${esc(t('classification'))}</strong> ${esc(c)}</div>` : '';
+                                    })()}
                                 </div>
                                 <div class="acupoint-footer">
                                     <a href="/api/acupoints/${encodeURIComponent(point.id)}" class="view-link" target="_blank" rel="noopener">

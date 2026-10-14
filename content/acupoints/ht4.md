@@ -4,6 +4,8 @@ name: "HT 4 Acupuncture Point"
 name_ru: "HT 4 (Линдао)"
 location: "On the palmar aspect of the forearm, the point is on the radial side of the tendon muscle flexor carpi ulnaris, 1.5 cun above the transverse crease of the wrist."
 location_ru: "На ладонной поверхности предплечья, точка находится на лучевой стороне сухожилия локтевого сгибателя запястья, в 1,5 цуня выше поперечной складки запястья."
+benefits_en: "Calms the Shen, benefits the voice, benefits the muscles and sinews."
+classification_en: "Jing-River point of the Heart Meridian"
 meridian: "Heart Meridian"
 category: ""
 image: "ht4.jpg"
@@ -27,7 +29,7 @@ On the palmar aspect of the forearm, the point is on the radial side of the tend
 
 ## Benefits
 
-- Сердечная боль, внезапная потеря голоса.
+Успокаивает Дух (Шэнь), улучшает голос, укрепляет мышцы и сухожилия.
 
 ## Classification
 
